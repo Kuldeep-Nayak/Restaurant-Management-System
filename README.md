@@ -12,7 +12,7 @@ Driver.py  :-Implement Restaurant (owner)login logic. Password is fixed.
 Owner.py:-Owners must be able to see these: 1. Update items list
                                             2. Dispatch order
                                             3. View the items list
-                                            4. Close
+                                            4. Close.
 Items.py:- This handles all the related tasks.
 
 PART 3:-
