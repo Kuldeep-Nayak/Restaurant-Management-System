@@ -1,0 +1,17 @@
+
+5,Sandwich,55
+
+7,Biriyani,70
+
+7,Biriyani,450
+
+
+6,Ice Cream,100
+
+1,Pasta,100
+
+2,Veg Burger,200
+
+3,Fries,50
+
+4,Milk Shake,99
