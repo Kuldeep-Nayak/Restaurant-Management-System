@@ -4,7 +4,7 @@
 Create driver program and User credentials.  
 <u>Driver.py</u>:- Main program from where the program execution starts which have the main menu driven concept for logging in Customer/Owner.  
 <u>User.py</u>:-   Program will have all the user related tasks –  
-                                            New user: If user is new ,then register his name with valid password.
+                                            New user: If user is new ,then register his name with valid password.  
                                             Existing user : Login for existing user with the credentials  
 <u>Items.py</u>:-  Program to handle all the items related tasks.
 
