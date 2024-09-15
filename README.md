@@ -4,18 +4,18 @@
 Create driver program and User credentials.  
 <u>Driver.py</u>:- Main program from where the program execution starts which have the main menu driven concept for logging in Customer/Owner.  
 <u>User.py</u>:-   Program will have all the user related tasks –  
-                                            New user: If user is new ,then register his name with valid password.  
-                                            Existing user : Login for existing user with the credentials  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;New user: If user is new ,then register his name with valid password.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Existing user : Login for existing user with the credentials  
 <u>Items.py</u>:-  Program to handle all the items related tasks.
 
 ### PART 2:-  
 Implement logic for restaurant login and allow users to select items from the items list and update in orderlist.  
 <u>Driver.py</u>:- Implement Restaurant (owner)login logic. Password is fixed.  
 <u>Owner.py</u>:-  Owners must be able to see these:  
-                                            1. Update items list
-                                            2. Dispatch order  
-                                            3. View the items list  
-                                            4. Close.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Update items list  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Dispatch order  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. View the items list  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Close.  
 <u>Items.py</u>:-  This handles all the related tasks.
 
 ### PART 3:-
