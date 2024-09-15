@@ -20,7 +20,7 @@ Implement logic for restaurant login and allow users to select items from the it
 
 ### PART 3:-
 Implement logic to dispatch order and manage item list.  
-<u>driver.py</u>:- Updated logic as necessary.  
+<u>Driver.py</u>:- Updated logic as necessary.  
 <u>Owner.py</u>:-Updated owner.py to implement update items list and dispatch order.  
 <u>Items.py</u>:- Add modules to add a new items , delete an item and update the price of an item.  
 <u>Orders.py</u>:- Add method to dispatch the order.
