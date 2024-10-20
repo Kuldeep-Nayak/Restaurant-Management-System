@@ -25,4 +25,4 @@ Implement logic to dispatch order and manage item list.
 **Items.py**:- Add modules to add a new items , delete an item and update the price of an item.  
 **Orders.py**:- Add method to dispatch the order.
 
-This is an individual project of during summer internship-1 on ‘Python for Beginners’ course.
+This is an individual project completed during the 'Python for Beginners' course as part of my Summer Internship-1.
